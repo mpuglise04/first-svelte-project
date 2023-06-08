@@ -14,7 +14,7 @@
     }
   </style>
 
-  <main>
+  <div>
     <div id="coach-k">
         <img src="https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTg4NTE4Mzc0ODc0MDMyMDc1/coach-k-coaches-duke-unc-final-four.jpg" alt="Coach K"/>
         <h3>Coach K</h3>
@@ -38,4 +38,4 @@
             and set up a department of computer and information science at UNC-Chapel Hill in 1964.</p>
     </div>
 
-</main>
+</div>
